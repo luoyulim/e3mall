@@ -5,7 +5,7 @@
     <artifactId>e3_manage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>e3_manager_service</artifactId>
+  <artifactId>e3_manage_service</artifactId>
   <!-- 
   SERVICE:业务层 
   1,spring
