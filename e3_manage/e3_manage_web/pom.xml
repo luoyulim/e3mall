@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>cn.e3mall</groupId>
-    <artifactId>e3_manager</artifactId>
+    <artifactId>e3_manage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>e3_manager_web</artifactId>
+  <artifactId>e3_manage_web</artifactId>
   <packaging>war</packaging>
   <!--
   	表现层:
@@ -32,7 +32,7 @@
 
 			<dependency>
 				<groupId>cn.e3mall</groupId>
-				<artifactId>e3_manager_service</artifactId>
+				<artifactId>e3_manage_service</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
   </dependencies>
