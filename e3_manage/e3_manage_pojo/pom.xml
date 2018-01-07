@@ -5,5 +5,5 @@
     <artifactId>e3_manage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>e3_manager_pojo</artifactId>
+  <artifactId>e3_manage_pojo</artifactId>
 </project>
