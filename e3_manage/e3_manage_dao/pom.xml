@@ -6,7 +6,7 @@
 		<artifactId>e3_manage</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>e3-manager-dao</artifactId>
+	<artifactId>e3-manage-dao</artifactId>
 	<!-- DAO: 持久层,访问数据库 1,mybatis 2,数据库驱动 3,数据源连接池 4,依赖pojo -->
 	<dependencies>
 		<!-- Mybatis -->
@@ -38,7 +38,7 @@
 		</dependency>
 		<dependency>
 			<groupId>cn.e3mall</groupId>
-			<artifactId>e3_manager_pojo</artifactId>
+			<artifactId>e3_manage_pojo</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
